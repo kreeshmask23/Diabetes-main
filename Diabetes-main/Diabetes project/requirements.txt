@@ -1,0 +1,9 @@
+plotly
+numpy
+seaborn
+pandas
+streamlit
+requests
+jsonpickle
+streamlit_lottie
+scikit-learn
